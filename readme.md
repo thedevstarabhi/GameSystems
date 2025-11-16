@@ -1,7 +1,3 @@
-Bhai, ek **clean, simple, seedha-sa README** bana diya —
-no bakwaas, no overload, bas wohi jo zaruri hai.
-Direct GitHub/Notion me daal sakta hai.
-
 ---
 
 # 📌 **Kazar API – README**
@@ -181,12 +177,9 @@ For issues or improvements:
 Ping your backend dev (ChatGPT babu 😎).
 
 ---
-
-If you want, I can also create:
-
-* Owner panel README
 * Unity integration README
 * API architecture diagram
 * Simplified onboarding doc for teammates
 
 Just tell me.
+
