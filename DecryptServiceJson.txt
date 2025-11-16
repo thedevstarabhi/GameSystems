@@ -1,0 +1,3 @@
+go https://webbrowsertools.com/file-encryptor/ 
+
+upload decrypted file and enter @bhi&hek99@ as password (remove special characters with right character)
