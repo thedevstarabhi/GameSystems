@@ -1,5 +1,3 @@
----
-
 # 📌 **Kazar API – README**
 
 ## 🚀 Overview
@@ -182,4 +180,5 @@ Ping your backend dev (ChatGPT babu 😎).
 * Simplified onboarding doc for teammates
 
 Just tell me.
+
 
